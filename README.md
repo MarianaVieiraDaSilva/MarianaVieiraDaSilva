@@ -1,6 +1,6 @@
 ## UMA VIDA BOA 😜
 
-## Meu nome é Mariana Vieira
+ Meu nome é Mariana Vieira
 
 - Estou estudando na Mitsusada Umetani.
 - Estou desenvolvendo o curso da Alura.
